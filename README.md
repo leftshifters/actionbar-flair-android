@@ -1,0 +1,1 @@
+Demo app for showing Google Calendar like current date in action bar icon
